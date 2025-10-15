@@ -85,4 +85,5 @@ The analysis led to several measurable improvements:
 ## Author
 
 **Sahil**  
-B.Tech Final Year, Mechanical Engineering  
+**Jai Kumar**
+B.Tech Final Year, IIT Ropar
